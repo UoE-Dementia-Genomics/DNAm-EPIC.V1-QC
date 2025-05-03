@@ -5,7 +5,7 @@ You can use this scripts to do general QC on DNA methylation data (EPIC V1) usin
 
 You can submit it as a job in `slurm` by replacing `bash` with `sbatch` in the previous command.
 
-# Requiered R packages:
+# Required R packages:
 
 ```
 methylumi
